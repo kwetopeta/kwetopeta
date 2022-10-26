@@ -1,3 +1,7 @@
-Wah Gwan Senpai, welcome to my GH page. 
+Wah Gwan Senpai, would you like a cheesecake or a  crème pie?
 
-I got my chitosi together and started afresh. My old username `33nano` is no more...
+
+
+
+
+
