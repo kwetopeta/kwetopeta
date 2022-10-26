@@ -1,5 +1,10 @@
 Wah Gwan Senpai, would you like a cheesecake or a  crème pie?
 
+```
+█▀█ ▄▀█   █▀▀ █▀█ █▀█ █░█ █▄░█ █▀▄   █▀ █ █▀█ ▄▀█ █░░ █ █▄▄ █░█░█ █ █▄░█ █▀█
+█▀▀ █▀█   █▄█ █▀▄ █▄█ █▄█ █░▀█ █▄▀   ▄█ █ █▀▀ █▀█ █▄▄ █ █▄█ ▀▄▀▄▀ █ █░▀█ █▄█
+```
+
 # Zatsopano
 
 - 2nd Brain by Example
